@@ -1,0 +1,231 @@
+X Replace race card by playing race card from hand when already a non-human.
+  attempt, don't do
+  do normally
+  replace dwarf without losing big items
+  replace dwarf and lose big items  
+X Replace race card by playing race card from hand when already 2 other races.
+  attempt, don't do
+  do normally
+  replace dwarf without losing big items
+  replace dwarf and lose big items
+X Discard Race
+  attempt, don't do
+  do normally
+  replace dwarf without losing big items
+  replace dwarf and lose big items
+  do when using half-breed with 1 class; 2 classes    
+  
+X Replace class card by playing class card from hand when already a class.
+  attempt, don't do
+  do normally  
+X Replace class card by playing class card from hand when already 2 other classes.
+  attempt, don't do
+  do normally
+X Discard Class
+  attempt, don't do
+  do normally
+  do when using super munchkin
+ 
+X Play curse card
+  attempt, don't do
+  do normally where curse applies and where doesn't apply
+  
+X Play cheat card
+  attempt when have no equipment
+  attempt when can, don't do
+  attempt when can, pick item with no restrictions & pick item with restrictions
+		
+X Play super munchkin card
+  attempt when have no class
+  attempt when class, but no class in hand
+  attempt when class and have 1 & more class cards in hand
+  
+X Play equipment card
+  don't equip
+  equip when can't
+  equip when can
+      
+X Play wand of dowsing card
+  play and don't take
+  play and take door card
+  play and take treasure card
+  play and take top card from deck
+  
+X Play steal level card
+  steal when at level 9
+  steal when below level 9
+  steal when everyone at level 1 and when at least one is above
+  
+X Play monter enhancer when multiple monsters
+  attempt, don't do
+  do
+
+X Play illusion card
+  when only one battle monster and one in hand
+  when only one battle monster and multiple in hand
+  when multiple battle monsters and one in hand
+  when multiple battle monsters and many in hand
+  when multiple in both but don't do
+  
+X play mate card when multiple monsters
+  attempt, don't do
+  do
+  
+X Play wandering monster
+  when one card in hand
+  when multiple cards in hand
+  attempt when possible but don't do
+  
+X Play magic lamp
+  attempt, don't do
+  vanish the only monster
+  vanish mate of only monster
+  vanish one of many monsters
+  
+X Play pollymorph potion
+  attempt, don't do
+  morph the only monster
+  morph mate of only monster
+  morph one of many monsters
+		
+X Play transferrel potion
+  attempt, but don't use
+  use when no helper
+  use when helper
+  
+X Play battle item
+  attempt, don't do
+  use for players
+  use for monsters
+  
+X Get caught by Platycore
+  choose to lose hand cards
+  choose to lose levels
+  
+X Lawyer VS Thief
+  take cards
+  don't take cards
+  helper thief joins battle
+  lawyer added to battle with one/two thieves
+  thief has zero, 1, many items
+  
+X Give to charity
+  1 too many
+  many too many
+  play dwarf
+  lose dwarf
+  1 card that uses another (super munchkin, lose 2 cards, cheat, etc.)
+  
+X End game with divine intervention
+  from dowsing rod
+  from open door
+  from resurrect
+  
+X Test PlayerInfoMenu in all situations
+
+X Test PlayerLabel in all situations
+
+X Test PlayerMenu in all situations
+  
+X Ask For Help
+  Human to Human
+  
+X Battle Panel
+  do all with and without helper
+  Defeat
+  Run
+  Ask Help
+  Chase Away
+  
+X CarriedItemsDialog
+
+X Wishing Ring
+  Use on lasting curse
+  Use on new curse
+  
+X EquipmentDialog
+
+X InHandDialog
+
+X LoadedDieDialog
+
+X LoseCardsDialog
+  1 and more cards
+
+X OptionsDialog
+
+X PlayBattleCardsDialog
+
+X ResurrectionDialog
+  Resurrect and don't
+  try when no cards in hand
+  
+X RollDiceDialog
+  try with chicken curse
+  try with loaded die, using and not using
+  
+X SellItemsDialog
+
+X StealItemsDialog
+
+X TakeCardDialog
+
+X TakeTreasuresPanel
+  
+X TradeItemsDialog
+  
+X Test Berserking, Turning, and Backstabbing
+
+X Test death
+  
+X RunDialog
+  X Rat on Stick
+  X Instant Wall
+    use but don't do
+    escape when no helper
+    escape without helper
+    escape for all
+  X Discard Elf
+  X Bribe Nose
+  X Drop Stick (all kinds)
+  X Test Flight Spell
+  X Test invisibility
+  X Test lamp
+  X Test glue
+  X Test escaping, auto-escape, no-escape, getting caught
+  X Try with all options available/applicable
+
+X Start new game
+  with 3 - 6 players
+    
+X Test all AI-handling code in Model package
+  X Battle
+    active player/helper thief VS lawyer (can't trade, could trade, does trade)
+  X CardPlayManager
+  X DoorDeckFactory
+  X GM
+    test mow the battlefield
+
+X Test all AI-handling code in gui package
+  X AskHelpDialog
+  X BattlePanel
+  X CharityDialog
+  X CurseDialog
+  X GUI
+  X HelpMeOutDialog
+  X LoseCardDialog
+  X LoseGPDialog
+  X RemoveCurseDialog
+  X ResurrecitonDialog
+  X RunDialog
+  X SellItemsDialog
+  X StealItemsDialog
+  X TakeCardsDialog
+  X TakeTreasuresPanel
+  X TradeItemsDialog
+
+X Test all AI-handling code in AI package
+  X AIBattleManager
+  X AICardEvaluator
+  X AIManager
+  X BattleAction

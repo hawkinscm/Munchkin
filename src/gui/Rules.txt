@@ -1,0 +1,166 @@
+168 Cards
+
+SETUP
+     Three to six can play. You will need 10 tokens (coins, poker chips, whatever -- or any gadget that counts to 10) for each player.
+     Divide the cards into the Door deck and the Treasure deck. Shuffle both decks. Deal two from each deck to each player.
+
+CARD MANAGEMENT
+     Keep separate face-up discard piles for the two decks.  When a deck runs out, reshuffle its discards. If a deck runs out and there are no discards, nobody can draw any of that kind of card!
+     YOUR HAND: Card in your hand are not in play. They don't help you, but they can't be taken away except by cards that specifically affect "your hand" rather than the items you are carrying. At the end of your turn, you may have no more than 5 cards in your hand (6 for dwarves).
+     CARRIED ITEMS: Treasure cards can be played in front of you to become "carried items." See ITEMS, below.
+     WHEN CARDS CAN BE PLAYED: Each type of card can be played at a specified time (see below).
+     Cards in play may not be returned to your hand - they must be discarded or traded if you want to get rid of them.
+
+CHARACTER CREATION
+     Everyone starts as a Level 1 human with no class. (Heh, heh.)
+     Look at your initial four card. If you have any RACE or CLASS cards, you may (if you like) play one of each type by placing it in front of you. If you have any ITEM cards, you may play them by placing them in front of you. If you have any doubt about whether you should play a card, you could read below, or you could just charge ahead and do it.
+
+STARTING AND FINISHING THE GAME
+     Decide who goes first by rolling the dice and arguing about the results and the meaning of this sentence and whether the fact that a word seems to be missing any effect.
+     Play proceeds in turns, each with several phases (see below). When the first player finishes his turn, the player to his left takes a turn, and so on.
+     The first player to reach 10th level wins ... but you MUST reach 10th level by killing a monster or by Divine Intervention. If two players kill a monster together and reach 10th level at the same time, they both win.
+
+TURN PHASES
+     (1) OPEN A DOOR: Draw one card from the Door deck and turn it face up. If it's a monster, you must fight it. See COMBAT. Resolve the combat completely before you go on. If you kill it, go up a level (or, for a big monster, two levels -- it will say so on the card).
+     If the card is a curse -- see CURSES, below -- it applies to you immediately (if it can) and is discarded.
+     If you draw any other card, you may either put it in your hand or play it immediately.
+
+     (2) LOOK FOR TROUBLE: If you did NOT encounter a monster when you first opened the door, you now have the option of playing a monster (if you have one) FROM YOUR HAND and fighting it, as described above. Don't play a monster you can't handle, unless you're sure you can count on getting help!
+
+     (3) LOOT THE ROOM: If you killed a monster, take the number of Treasures shown on the monster card. Draw them face down if you killed the monster alone, or face up if you had help.
+     If you met a monster but ran away, you don't get to loot the room.
+     If you did not meet a monster, or you met a friendly monster, you search the room ... draw a second card from the DOOR deck, face DOWN, and place it in your hand.
+
+     (4) CHARITY: If you have too many cards (6 for dwarves, 5 for everyone else), give the excess to the player with the lowest level. If players are tied for lowest, divide the cards as evenly as possible, but it's up to you who get the bigger half. If YOU are the lowest or tied for lowest, just discard the excess.
+
+     It is now the next player's turn.
+
+COMBAT
+     To fight a monster, check the Level at the top of its card. If your own Level, plus the Bonus from any items you are carrying, totals more than the monster's Level, you kill it. Some monster cards have special powers which affect combat -- a bonus against one race or class, for instance. Be sure to check these before resolving combat.
+     You may also use one-shot cards, such as potions, FROM YOUR HAND during combat. A card is a one-shot if it says "Usable Once Only" or if it gives a Level increase.
+     You cannot steal or trade items while combat is going on.
+     If other monsters (a Wandering Monster or a Mate) join the fight, you must defeat their combined levels. If you have the right cards, you can eliminate one monster from the combat and fight the other normally, but you cannot choose to fight one and run from the other(s). If you eliminate one with a card but then run from the other(s), you don't get any treasure.
+     If you kill a monster, you automatically go up a level (two levels for some very dangerous monsters). If you were fighting multiple monster cards -- see INTERFERING WITH COMBAT -- you go up a level for each monster killed! But if you defeat a monster without killing it, you NEVER go up a level.
+     Discard the monster card(s) and draw treasure (see below). But note: someone may play a hostile card on you, or use a special power, just as you think you have won. When you kill a monster, you must wait a reasonable time, defined as about 2.6 seconds, for anyone else to speak up. After that, you have really killed the monster, and you really go up a level and get the treasure, though they can still whine an argue.
+     If you cannot defeat the monster, you have two choices: ask for help or run away.
+
+ASKING FOR HELP
+     You may ask any other player to help you. If he refuses, you may ask another player, and so on, until they all turn you down or someone helps. Only one player can help you.
+     You can bribe someone to help. In fact, you'll probably have to, unless there's an Elf around. You may offer them an Item(s) you are currently carrying, or any number of the Treasure cards the monster has. If you offer them part of the monster's treasure, you must agree whether they pick first, or you pick first, or what.
+     When someone helps you, you add their Level and their Bonuses to yours.
+     The special abilities or vulnerabilities of the monster also apply to your helper, and vice versa. For instance, if a Warrior helps you, you will win if your combined total TIES that of the monster, and he can Berserk and discard cards to add to his combat strength. If you are facing the Wannabe Vampire and a Cleric helps you, he can chase it away automatically. But if you ar facing the Drooling Slime and an Elf help you, the monster's level is increased by 4 (unless you, too, are an Elf and the monster's level has ALREADY been increased).
+     If someone successfully helps you, the monster is slain. Discard it, draw treasure (see below), and follow any special instructions on the monster card. YOU still go up a level for each slain monster. Your helper does NOT go up ... unless he's an Elf, in which case he also gains one level for each monster slain.
+     If nobody will help you ... or if somebody tries to help, and your fellow party members hurt you or help the monster so the two of you STILL cannot defeat it ... you must run away.
+
+RUNNING AWAY
+     If you run away, you don't get any levels or treasure. You don't even get to loot the room (that is, draw a face-down Door card). And you don't always escape ...
+     Roll the die. You only escape on a 5 or better. Elves get a bonus to run away, while halflings have a penalty. Some magic items make it easier or harder to run away. And some monsters are fast, and give you a penalty to your roll.
+     If you escape, discard the monster. You get no treasure. There are usually no bad effects ... but read the card. Some monsters hurt you even if you get away from them!
+     If the monster catches you, it does Bad Stuff to you, as described on its card. This may vary from losing an item, to losing one or more levels, to Death.
+     If two players are cooperating and still can't defeat the monster(s), they BOTH must flee. They roll separately. The monster(s) CAN catch them both.
+     If you are fleeing from multiple monsters, you roll separately to escape each one, in any order you choose, and suffer Bad Stuff from each one that catches you.
+
+DEATH
+     If you DIE, you lose all your stuff. You keep your class(es), races(s) and level -- your new character will look just like your old one.
+     LOOTING THE BODY: Lay out your hand beside the cards you had in play. Starting with the one with the HIGHEST level, each other player chooses one card ... in case of ties in level, roll a die. If your corpse runs out of cards, tough. After everyone gets one card, the rest are discarded.
+     Your new character appears immediately and can help others in combat on the next turn ... but you have no cards.
+     On YOUR next turn, start by drawing TWO FROM EACH DECK, face-down, and playing any Race, Class, or Item cards you want to, just as when you started the game.
+
+TREASURE
+     When you defeat a monster, either by killing it or using a card to eliminate it, you get its Treasure. Each monster has a Treasure number on the bottom of its card. Draw that many treasures. Draw face-down if you killed the monster alone. Draw face-up, so the whole party can see what you got, if someone helped you.
+     Treasure cards can be played as soon as you get them. Item cards can be placed in front of you. "Go Up A Level" cards can be used instantly.
+
+CHARACTER STATS
+     Each character is basically a collection of weapons, armor, and magic items, with three stats: Level, Race, and Class. For instance, you might describe your character as "an 8th-level elf wizard with Boots of Butt-Kicking, a Staff of Napalm, and the Kneepads of Allure."
+     Your character's sex starts off the same as your own.
+
+     LEVEL: This is a measure of how generally buff and studly you are. (Monsters have levels, too.) Keep track of your level by placing tokens in front of you. Level ranges from 1 to 10. You will gain and lose levels constantly during play.
+     You gain a level when you kill a monster, or when a card says that you do. You can also sell items to buy levels (see ITEMS).
+     You lose a level when a card says that you do. Your level can never go below 1. However, your EFFECITVE level in a combat can be negative, if you get cursed or backstabbed.
+
+     RACE: Characters may be human, elf, dwarf, or halfling. If you have no Race card in front of you, you are human.
+     Humans have no special abilities. Each other race has different special abilites or penalties (see the cards). You gain the abilities of a race the moment you play its card in front of you, and lose them as soon as you discard that card. You can discard a race card at any time, even in combat: "I don't wanna be an elf any more." When you discard a race card, you become human again.
+     You may not belong to more than one race at once unless you play the Half-Breed card.  You may not have two copies of the same Race card in play.
+
+     CLASS: Characters may be warriors, wizards, thieves, or clerics. If you have no Class card in front of you, you have no class. Yeah, I know, we did that one already.
+     Each class has different abilities, shown on the cards. You gain the abilities of a class the moment you play its card in front of you, and lose them as soon as you discard that card. Most class abilites are powered by discards. You may discard any card, in play or in your hand, to power a special ability. Note that if you have NO cards in your hand, you cannot "discard your whole hand."
+     See the Class cards for when abilities can be used. Note that a Thief cannot steal during a fight, and that once a monster is revealed, the fight is on.
+     You can discard a class card at any time, even in combat: "I don't wanna be a wizard any more." When you discard a class card, you become classless until you play another class card.
+     You may not belong to more than one class at once unless you play the Super Munchkin card. You may not have two copies of the same Class card in play.
+
+ITEMS
+     Each Item card has a name, a power, a size, and a value in gold pieces.
+     An item card in your hand does not count until you play it; at that point, it is "carried." You may carry any number of small items, but only one Big one. (Any item not designated Big is considered Small.)
+     Dwarves are an exception. They can carry any number of Big items. If you stop being a Dwarf and you have more than one Big item, you must immediately get rid of all but one. If it's your turn, you can sell them. Otherwise, you must give them to the lowest-level player(s) who can carry them!
+     Anyone can carry any item, but some items have use restrictions: for instance, the Mace of Sharpness can only be wielded by a cleric. Its bonus only counts for someone who is, at the moment, a cleric.
+     Likewise, you may also use only one headgear, one suit of armor, one pair of footgear, and two "hand" items (or one "two hands" item), unless you have a card that lets you cheat or the other players don't catch you. If you are carrying two helms, for instance, only on of them can help you.
+     You should indicate items that can't help you, or extras not being worn, by turning the cards sideways. You may NOT switch between (for instance) helmets during a combat or while running away.
+     SELLING ITEMS FOR LEVELS: During your turn, you may discard items worth 1,000 gold pieces and immediately go up one level. If you discard (for instance) 1,100 gold pieces worth, you don't get change. But if you can manage 2,000 worth, you can go up two levels at once, and so on. You my sell items from your hand as well as those you are carrying.
+     Halflings get a bonus when selling items.
+     You may not sell, trade, or steal items DURING a fight. Once you expose a monster card, you must finish the fight with the equipment you have.
+
+WHEN TO PLAY CARDS
+     Instructions on the cards always override the general rules. However, no card can reduce a player or monster to Level 0 or below, and no player can reach Level 10 except by killing a monster.
+
+MONSTERS
+     If drawn face-up, during the "Open a Door" phase, they apply immediately to the person who drew them. They must be fought immediately.
+     If acquired any other way, they may be played during "Looking For Trouble," or played on another player with the Wandering Monster card.
+     For rules purposes, each Monster card is a single monster, even if the name of the card is plural.
+
+MONSTER ENHANCERS
+     "Ancient," "Enraged," "Intelligent," and "Humongous" raise the level of monsters (and "Baby" lowers the level). "Wandering Monster" and "Mate" bring another monster to join a battle. They may be played by any player during any combat.
+     All enhancers add together, and anything that enhances a monster enhances its mate ... if Ancient, Enraged, and Mate are played together, IN ANY ORDER, you are facing an ancient enraged monster and its ancient enraged mate. However, if there are two different monsters already in play, due to a Wandering Monster card, the player who plays the enhancer must choose which one it applies to.
+
+TREASURES -- PLAYING THEM
+     Any treasure card may be played to the table as soon as you get it, or at any time during your own turn.
+     Some Treasure cards are "specials" (like "Go Up A Level"). You may use these at any time, unless the card itself says otherwise. Follow its instructions; then discard it.
+
+CURSES
+     If drawn face-up, during the "Open A Door" phase, they apply to the person who drew them.
+     If drawn face-down or acquired some other way, they may be played on ANY player at ANY time.  Any time, do you hear me? Reducing someone's abilities just as he thinks he has killed a monster is a lot of fun.
+     A curse affects its victim immediately (if it can) and is discarded. EXCEPTIONS: "Change Sex" gives a penalty on your next fight, and "Chicken On Your Head" just keeps going and going ... Keep these cards until you get rid of the curse.
+     If a curse can apply to more than one item, the victim decides which item is lost or cursed.
+     If a curse applies to something you don't have, ignore it. For instance, if you draw "Lose Your Armor" and you have no armor, nothing happens; discard the curse.
+
+CLASSES AND RACES
+     These cards may be played to the table as soon as they are acquired, or at any time during your own turn.
+
+HALF-BREED AND SUPER MUNCHKIN
+     These are cards that let you have, respectively, two races and two classes.
+     You can play Half-Breed any time you have one race in play; you are now half that race and half human. You may add a second race at the same time or later, as long as you still have Half-Breed out; you are now (for instance) half Elf and half Dwarf, with the advantages and disadvantages of both. You lose Half-Breed at any time you have no race card in play.
+     You can play Super Munchkin any time you have one class in play and you have a second class card to add to it. You lose Super Munchkin if you lose either of your class cards.
+
+OTHER MUNCHKIN STUFF
+     There will be times when it will help you to play a Curse or Monster on yourself, or to "help" another player in a way that costs him treasure. This is very munchkinly. Do it.
+
+TRADING
+     You may trade Items (but not other cards) with other players. You may only trade items from the table -- not from your hand. You may trade at any time except when you're in combat -- in fact, the best time to trade is when it's not your turn. Any item you receive in a trade must go into play; you can't sell it until it's your turn.
+     You may also give items away without a trade, to bribe other players -- "I'll give you my Flaming Armor if you won't help Bob fight that dragon!"
+     You may show your hand to others. Like we could stop you.
+
+INTERFERING WITH COMBAT
+     You can interfere with others' combats in several ways:
+     USE A ONE-SHOT CARD. If you have a potion, you could help someone by casting it against their foe.  Of course, you can "accidentally" hit your friend with the potion, and it will count AGAINST them.
+     PLAY A CARD TO ENCHANCE A MONSTER. These are cards that make a monster worse ... and give it more treasure. You can play these either during your own combats or during someone else's combat.
+     PLAY A WANDERING MONSTER. This sends a monster from your hand to join any combat.
+     BACKSTAB a player in combat, if you're a thief.
+     CURSE them, if you have a Curse card.
+
+RULES CONTRADICTIONS OR DISPUTES
+     When the cards disagree with the rules, follow the cards. Any other disputes should be settled by loud arguments among the players, with the owner of the game having the last word.
+
+FASTER PLAY
+     For a quicker game, each player starts with four cards from each deck, and gets four from each deck when he returns from death.
+     Any time a Race, Class, Super Munchkin, or Half-Breed card is on top of the discard pile, any player may discard a "Go Up A Level" card from his hand and claim it. If multiple players try to claim a card, they roll dice. The winner gets it; the loser keeps his Level card.
+
+EXTRA INSTRUCTIONS FOR THIS SOFTWARE VERSION OF MUNCHKIN
+     To view info about a player, either select that player from the menu or click on their picture.  
+     Clicking on items, races, classes, etc. in the menu will display the cards associated with them.
+     If multiple people are playing, you will have to make it "open hand" or tell everyone to look away when you are looking at the cards in your hand.  There is no warning before hand cards are displayed when requested or needed throughout the game.
+     Any card in the game can be viewed by selecting "All Cards" in the "View" menu.
+     You can look through the discard piles at any time by selecting it from the "View" menu or by clicking on one of the discard piles.
+
+
+
+
+
